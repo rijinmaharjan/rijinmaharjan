@@ -2,7 +2,7 @@
 - 👀 I’m interested in i don't know.
 - 🌱 I’m currently learning python and software design.
 - 💞️ I’m looking to collaborate on idk.
-- 📫 How to reach me instagram:rijinnmaharjan
+- 📫 How to reach me instagram:rijinmaharjan
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
