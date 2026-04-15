@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 👀 I’m interested in exploring tech and building random stuff
-- 🌱 Currently learning **Python** and **Software Design**
+- 🌱 Currently learning **Artificial Intelligence** and **Software Design**
 - 💞️ Open to collaborating on cool and useful projects
 
 ---
@@ -28,6 +28,11 @@
 
 ### 📫 Connect with Me
 - 📷 Instagram: **@rijinmaharjan**
+
+---
+
+### 😄 Pronouns
+- He/Him
 
 ---
 
