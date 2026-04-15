@@ -1,9 +1,19 @@
 # 👋 Hey, I'm Rijin!
 
 ### 🚀 About Me
-- 👀 I’m interested in exploring tech and building random stuff
+- 👀 I’m interested in exploring tech and building real-world projects
 - 🌱 Currently learning **Artificial Intelligence** and **Software Design**
-- 💞️ Open to collaborating on cool and useful projects
+- 📊 Working on **NEPSE Stock Prediction using Random Forest**
+- 💞️ Open to collaborating on AI and software projects
+
+---
+
+### 🧠 AI & Data Science
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -26,6 +36,15 @@
 
 ---
 
+### 📊 Featured Project
+
+**📈 NEPSE Prediction using Random Forest**
+- Built a machine learning model to predict stock trends
+- Used **scikit-learn RandomForestClassifier**
+- Focused on data preprocessing, training, and evaluation
+
+---
+
 ### 📫 Connect with Me
 - 📷 Instagram: **@rijinmaharjan**
 
@@ -37,7 +56,7 @@
 ---
 
 ### ⚡ Fun Fact
-- I learn best by building things (and breaking them first 💀)
+- I turn random ideas into actual projects 🚀
 
 ---
 
